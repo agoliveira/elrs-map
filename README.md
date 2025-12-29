@@ -208,4 +208,4 @@ To pre-download tiles for an area, you can use tools like [JTileDownloader](http
 
 ## License
 
-MIT
+GPL 3.0
